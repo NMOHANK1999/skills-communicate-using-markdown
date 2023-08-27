@@ -15,3 +15,6 @@ Hi header in 6 diff sizes
 ```python
 print("Hello Git")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
